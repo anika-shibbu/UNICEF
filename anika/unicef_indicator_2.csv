@@ -1,0 +1,1099 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Institutional deliveries - percentage of deliveries in a health facility,2003,12.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,Institutional deliveries - percentage of deliveries in a health facility,2010,32.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,Institutional deliveries - percentage of deliveries in a health facility,2011,32.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,Institutional deliveries - percentage of deliveries in a health facility,2012,35.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,Institutional deliveries - percentage of deliveries in a health facility,2014,42.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,Institutional deliveries - percentage of deliveries in a health facility,2015,48.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,Institutional deliveries - percentage of deliveries in a health facility,2017,50.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,Institutional deliveries - percentage of deliveries in a health facility,2018,56.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Afghanistan,AF,AFG,4,Institutional deliveries - percentage of deliveries in a health facility,2020,62.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Albania,AL,ALB,8,Institutional deliveries - percentage of deliveries in a health facility,2002,94,Total,Units,%,Reported,Free,End of fieldwork,Total
+Albania,AL,ALB,8,Institutional deliveries - percentage of deliveries in a health facility,2005,98,Total,Units,%,Reported,Free,End of fieldwork,Total
+Albania,AL,ALB,8,Institutional deliveries - percentage of deliveries in a health facility,2009,96.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Albania,AL,ALB,8,Institutional deliveries - percentage of deliveries in a health facility,2018,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Algeria,DZ,DZA,12,Institutional deliveries - percentage of deliveries in a health facility,2000,92,Total,Units,%,Reported,Free,End of fieldwork,Total
+Algeria,DZ,DZA,12,Institutional deliveries - percentage of deliveries in a health facility,2002,90.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Algeria,DZ,DZA,12,Institutional deliveries - percentage of deliveries in a health facility,2006,95.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Algeria,DZ,DZA,12,Institutional deliveries - percentage of deliveries in a health facility,2013,96.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Algeria,DZ,DZA,12,Institutional deliveries - percentage of deliveries in a health facility,2019,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Angola,AO,AGO,24,Institutional deliveries - percentage of deliveries in a health facility,2007,45.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Angola,AO,AGO,24,Institutional deliveries - percentage of deliveries in a health facility,2016,45.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2000,97.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2004,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2005,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2006,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2007,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2008,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2009,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2010,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2011,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2012,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2013,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Argentina,AR,ARG,32,Institutional deliveries - percentage of deliveries in a health facility,2020,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,Institutional deliveries - percentage of deliveries in a health facility,2000,91.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,Institutional deliveries - percentage of deliveries in a health facility,2005,96.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,Institutional deliveries - percentage of deliveries in a health facility,2007,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,Institutional deliveries - percentage of deliveries in a health facility,2010,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Armenia,AM,ARM,51,Institutional deliveries - percentage of deliveries in a health facility,2016,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2000,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2001,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2002,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2003,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2004,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2005,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2006,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2007,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2008,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2009,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2010,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2011,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Australia,AU,AUS,36,Institutional deliveries - percentage of deliveries in a health facility,2013,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2000,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2001,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2002,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2003,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2004,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2005,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2006,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2007,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2008,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2009,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2010,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2011,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2012,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Austria,AT,AUT,40,Institutional deliveries - percentage of deliveries in a health facility,2014,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Azerbaijan,AZ,AZE,31,Institutional deliveries - percentage of deliveries in a health facility,2001,73.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Azerbaijan,AZ,AZE,31,Institutional deliveries - percentage of deliveries in a health facility,2006,77.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Azerbaijan,AZ,AZE,31,Institutional deliveries - percentage of deliveries in a health facility,2011,93.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Azerbaijan,AZ,AZE,31,Institutional deliveries - percentage of deliveries in a health facility,2013,95.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bahrain,BH,BHR,48,Institutional deliveries - percentage of deliveries in a health facility,2000,97.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bahrain,BH,BHR,48,Institutional deliveries - percentage of deliveries in a health facility,2001,97.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bahrain,BH,BHR,48,Institutional deliveries - percentage of deliveries in a health facility,2002,97.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bahrain,BH,BHR,48,Institutional deliveries - percentage of deliveries in a health facility,2003,97.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bahrain,BH,BHR,48,Institutional deliveries - percentage of deliveries in a health facility,2006,97.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bahrain,BH,BHR,48,Institutional deliveries - percentage of deliveries in a health facility,2007,97.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bahrain,BH,BHR,48,Institutional deliveries - percentage of deliveries in a health facility,2008,97.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,Institutional deliveries - percentage of deliveries in a health facility,2000,7.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,Institutional deliveries - percentage of deliveries in a health facility,2001,9.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,Institutional deliveries - percentage of deliveries in a health facility,2004,9.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,Institutional deliveries - percentage of deliveries in a health facility,2006,16,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,Institutional deliveries - percentage of deliveries in a health facility,2007,14.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,Institutional deliveries - percentage of deliveries in a health facility,2010,23.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,Institutional deliveries - percentage of deliveries in a health facility,2011,28.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,Institutional deliveries - percentage of deliveries in a health facility,2013,31,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,Institutional deliveries - percentage of deliveries in a health facility,2014,37.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,Institutional deliveries - percentage of deliveries in a health facility,2018,49.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bangladesh,BD,BGD,50,Institutional deliveries - percentage of deliveries in a health facility,2019,53.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Barbados,BB,BRB,52,Institutional deliveries - percentage of deliveries in a health facility,2012,100,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belarus,BY,BLR,112,Institutional deliveries - percentage of deliveries in a health facility,2005,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belarus,BY,BLR,112,Institutional deliveries - percentage of deliveries in a health facility,2012,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belarus,BY,BLR,112,Institutional deliveries - percentage of deliveries in a health facility,2019,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2000,76.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2001,78.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2002,76.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2003,76.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2004,76.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2005,76.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2006,88.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2007,86.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2008,88.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2009,90.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2010,94.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2011,93.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Belize,BZ,BLZ,84,Institutional deliveries - percentage of deliveries in a health facility,2016,96.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Benin,BJ,BEN,204,Institutional deliveries - percentage of deliveries in a health facility,2001,76,Total,Units,%,Reported,Free,End of fieldwork,Total
+Benin,BJ,BEN,204,Institutional deliveries - percentage of deliveries in a health facility,2006,78.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Benin,BJ,BEN,204,Institutional deliveries - percentage of deliveries in a health facility,2012,86.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Benin,BJ,BEN,204,Institutional deliveries - percentage of deliveries in a health facility,2014,87,Total,Units,%,Reported,Free,End of fieldwork,Total
+Benin,BJ,BEN,204,Institutional deliveries - percentage of deliveries in a health facility,2018,83.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bhutan,BT,BTN,64,Institutional deliveries - percentage of deliveries in a health facility,2003,36.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bhutan,BT,BTN,64,Institutional deliveries - percentage of deliveries in a health facility,2007,55,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bhutan,BT,BTN,64,Institutional deliveries - percentage of deliveries in a health facility,2010,63.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bhutan,BT,BTN,64,Institutional deliveries - percentage of deliveries in a health facility,2012,73.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bhutan,BT,BTN,64,Institutional deliveries - percentage of deliveries in a health facility,2017,93.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2002,56.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2002,56.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2004,57.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2004,57.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2008,67.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2008,67.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2009,67,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2009,67,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2010,69.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2010,69.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2011,72.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2011,72.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2012,82.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2012,82.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2013,83.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2013,83.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2014,83.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2014,83.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2015,87.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2015,87.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2016,87.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2016,87.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2017,84.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2017,84.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2018,82.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2018,82.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2019,80.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bolivia,BO,BOL,68,Institutional deliveries - percentage of deliveries in a health facility,2019,80.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bosnia and Herzegovina,BA,BIH,70,Institutional deliveries - percentage of deliveries in a health facility,2006,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bosnia and Herzegovina,BA,BIH,70,Institutional deliveries - percentage of deliveries in a health facility,2012,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Botswana,BW,BWA,72,Institutional deliveries - percentage of deliveries in a health facility,2007,93.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Botswana,BW,BWA,72,Institutional deliveries - percentage of deliveries in a health facility,2009,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Botswana,BW,BWA,72,Institutional deliveries - percentage of deliveries in a health facility,2010,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Botswana,BW,BWA,72,Institutional deliveries - percentage of deliveries in a health facility,2011,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Botswana,BW,BWA,72,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Botswana,BW,BWA,72,Institutional deliveries - percentage of deliveries in a health facility,2013,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Botswana,BW,BWA,72,Institutional deliveries - percentage of deliveries in a health facility,2015,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2000,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2001,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2002,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2003,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2004,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2005,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2006,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2007,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2008,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2009,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2010,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2011,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2012,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2013,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2014,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2015,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2016,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2017,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2018,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brazil,BR,BRA,76,Institutional deliveries - percentage of deliveries in a health facility,2019,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei Darussalam,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2002,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2002,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei Darussalam,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2003,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2003,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei Darussalam,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2004,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2004,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei Darussalam,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2005,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2005,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei Darussalam,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2006,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2006,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei Darussalam,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2007,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2007,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei Darussalam,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2008,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2008,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei Darussalam,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2009,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2009,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei Darussalam,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2010,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2010,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei Darussalam,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2011,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2011,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei Darussalam,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Brunei,BN,BRN,96,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,Institutional deliveries - percentage of deliveries in a health facility,2007,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,Institutional deliveries - percentage of deliveries in a health facility,2009,93.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,Institutional deliveries - percentage of deliveries in a health facility,2010,92.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,Institutional deliveries - percentage of deliveries in a health facility,2013,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,Institutional deliveries - percentage of deliveries in a health facility,2014,93.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,Institutional deliveries - percentage of deliveries in a health facility,2015,93.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Bulgaria,BG,BGR,100,Institutional deliveries - percentage of deliveries in a health facility,2018,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burkina Faso,BF,BFA,854,Institutional deliveries - percentage of deliveries in a health facility,2003,38.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burkina Faso,BF,BFA,854,Institutional deliveries - percentage of deliveries in a health facility,2006,50.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burkina Faso,BF,BFA,854,Institutional deliveries - percentage of deliveries in a health facility,2010,66.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burkina Faso,BF,BFA,854,Institutional deliveries - percentage of deliveries in a health facility,2015,82.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burkina Faso,BF,BFA,854,Institutional deliveries - percentage of deliveries in a health facility,2021,94,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burundi,BI,BDI,108,Institutional deliveries - percentage of deliveries in a health facility,2005,28.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burundi,BI,BDI,108,Institutional deliveries - percentage of deliveries in a health facility,2010,59.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burundi,BI,BDI,108,Institutional deliveries - percentage of deliveries in a health facility,2012,78.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burundi,BI,BDI,108,Institutional deliveries - percentage of deliveries in a health facility,2017,83.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cape Verde,CV,CPV,132,Institutional deliveries - percentage of deliveries in a health facility,2005,77.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cape Verde,CV,CPV,132,Institutional deliveries - percentage of deliveries in a health facility,2006,76.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cape Verde,CV,CPV,132,Institutional deliveries - percentage of deliveries in a health facility,2007,74.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cape Verde,CV,CPV,132,Institutional deliveries - percentage of deliveries in a health facility,2008,74.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cape Verde,CV,CPV,132,Institutional deliveries - percentage of deliveries in a health facility,2009,75.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cape Verde,CV,CPV,132,Institutional deliveries - percentage of deliveries in a health facility,2018,97,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cambodia,KH,KHM,116,Institutional deliveries - percentage of deliveries in a health facility,2000,9.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cambodia,KH,KHM,116,Institutional deliveries - percentage of deliveries in a health facility,2006,21.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cambodia,KH,KHM,116,Institutional deliveries - percentage of deliveries in a health facility,2011,53.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cambodia,KH,KHM,116,Institutional deliveries - percentage of deliveries in a health facility,2014,83.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cambodia,KH,KHM,116,Institutional deliveries - percentage of deliveries in a health facility,2022,97.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cameroon,CM,CMR,120,Institutional deliveries - percentage of deliveries in a health facility,2004,59,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cameroon,CM,CMR,120,Institutional deliveries - percentage of deliveries in a health facility,2006,61.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cameroon,CM,CMR,120,Institutional deliveries - percentage of deliveries in a health facility,2011,61.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cameroon,CM,CMR,120,Institutional deliveries - percentage of deliveries in a health facility,2014,61.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cameroon,CM,CMR,120,Institutional deliveries - percentage of deliveries in a health facility,2018,67,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2000,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2001,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2002,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2003,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2004,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2005,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2006,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2007,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2008,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2009,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2010,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Canada,CA,CAN,124,Institutional deliveries - percentage of deliveries in a health facility,2011,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Central African Republic,CF,CAF,140,Institutional deliveries - percentage of deliveries in a health facility,2006,51,Total,Units,%,Reported,Free,End of fieldwork,Total
+Central African Republic,CF,CAF,140,Institutional deliveries - percentage of deliveries in a health facility,2009,55.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Central African Republic,CF,CAF,140,Institutional deliveries - percentage of deliveries in a health facility,2010,52.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Central African Republic,CF,CAF,140,Institutional deliveries - percentage of deliveries in a health facility,2019,58.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chad,TD,TCD,148,Institutional deliveries - percentage of deliveries in a health facility,2004,13.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chad,TD,TCD,148,Institutional deliveries - percentage of deliveries in a health facility,2010,15.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chad,TD,TCD,148,Institutional deliveries - percentage of deliveries in a health facility,2015,21.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chad,TD,TCD,148,Institutional deliveries - percentage of deliveries in a health facility,2019,27.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chile,CL,CHL,152,Institutional deliveries - percentage of deliveries in a health facility,2000,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chile,CL,CHL,152,Institutional deliveries - percentage of deliveries in a health facility,2002,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chile,CL,CHL,152,Institutional deliveries - percentage of deliveries in a health facility,2003,97.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chile,CL,CHL,152,Institutional deliveries - percentage of deliveries in a health facility,2007,97.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chile,CL,CHL,152,Institutional deliveries - percentage of deliveries in a health facility,2008,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chile,CL,CHL,152,Institutional deliveries - percentage of deliveries in a health facility,2009,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chile,CL,CHL,152,Institutional deliveries - percentage of deliveries in a health facility,2010,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chile,CL,CHL,152,Institutional deliveries - percentage of deliveries in a health facility,2011,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chile,CL,CHL,152,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Chile,CL,CHL,152,Institutional deliveries - percentage of deliveries in a health facility,2014,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2000,72.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2001,76,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2002,78.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2003,79.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2004,82.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2005,85.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2006,88.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2007,91.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2008,94.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2009,96.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2010,97.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2011,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2012,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2013,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2014,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2015,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2016,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2017,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2018,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2019,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+China,CN,CHN,156,Institutional deliveries - percentage of deliveries in a health facility,2020,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,Institutional deliveries - percentage of deliveries in a health facility,2000,87.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,Institutional deliveries - percentage of deliveries in a health facility,2005,92,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,Institutional deliveries - percentage of deliveries in a health facility,2010,95.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,Institutional deliveries - percentage of deliveries in a health facility,2011,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,Institutional deliveries - percentage of deliveries in a health facility,2012,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,Institutional deliveries - percentage of deliveries in a health facility,2013,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Colombia,CO,COL,170,Institutional deliveries - percentage of deliveries in a health facility,2016,96.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Comoros,KM,COM,174,Institutional deliveries - percentage of deliveries in a health facility,2012,76.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Congo,CG,COG,178,Institutional deliveries - percentage of deliveries in a health facility,2005,82.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Congo,CG,COG,178,Institutional deliveries - percentage of deliveries in a health facility,2012,91.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Congo,CG,COG,178,Institutional deliveries - percentage of deliveries in a health facility,2015,91.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cook Islands,CK,COK,184,Institutional deliveries - percentage of deliveries in a health facility,2009,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,Institutional deliveries - percentage of deliveries in a health facility,2005,94.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,Institutional deliveries - percentage of deliveries in a health facility,2007,94.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,Institutional deliveries - percentage of deliveries in a health facility,2008,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,Institutional deliveries - percentage of deliveries in a health facility,2009,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,Institutional deliveries - percentage of deliveries in a health facility,2010,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,Institutional deliveries - percentage of deliveries in a health facility,2011,98.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,Institutional deliveries - percentage of deliveries in a health facility,2014,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Costa Rica,CR,CRI,188,Institutional deliveries - percentage of deliveries in a health facility,2018,97.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2000,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2001,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2002,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2003,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2004,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2005,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2006,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2007,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2008,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2009,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2010,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2011,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2012,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2013,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2014,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2015,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cuba,CU,CUB,192,Institutional deliveries - percentage of deliveries in a health facility,2019,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2000,97.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2001,83.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2002,87.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2003,83,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2004,95.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2005,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2006,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2007,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2008,97.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2009,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2010,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2011,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2012,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2013,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Cyprus,CY,CYP,196,Institutional deliveries - percentage of deliveries in a health facility,2014,97.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2000,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2001,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2002,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2003,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2004,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2005,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2006,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2007,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2008,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2009,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2010,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2011,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2012,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Czech Republic,CZ,CZE,203,Institutional deliveries - percentage of deliveries in a health facility,2013,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Côte d'Ivoire,CI,CIV,384,Institutional deliveries - percentage of deliveries in a health facility,2005,55.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ivory Coast,CI,CIV,384,Institutional deliveries - percentage of deliveries in a health facility,2005,55.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Côte d'Ivoire,CI,CIV,384,Institutional deliveries - percentage of deliveries in a health facility,2006,53.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ivory Coast,CI,CIV,384,Institutional deliveries - percentage of deliveries in a health facility,2006,53.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Côte d'Ivoire,CI,CIV,384,Institutional deliveries - percentage of deliveries in a health facility,2012,57.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ivory Coast,CI,CIV,384,Institutional deliveries - percentage of deliveries in a health facility,2012,57.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Côte d'Ivoire,CI,CIV,384,Institutional deliveries - percentage of deliveries in a health facility,2016,69.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ivory Coast,CI,CIV,384,Institutional deliveries - percentage of deliveries in a health facility,2016,69.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Côte d'Ivoire,CI,CIV,384,Institutional deliveries - percentage of deliveries in a health facility,2021,80.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ivory Coast,CI,CIV,384,Institutional deliveries - percentage of deliveries in a health facility,2021,80.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Institutional deliveries - percentage of deliveries in a health facility,2009,94.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Korea, Democratic People's Republic of",KP,PRK,408,Institutional deliveries - percentage of deliveries in a health facility,2017,92.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Institutional deliveries - percentage of deliveries in a health facility,2007,70.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Institutional deliveries - percentage of deliveries in a health facility,2010,74.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Institutional deliveries - percentage of deliveries in a health facility,2014,79.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Congo, the Democratic Republic of the",CD,COD,180,Institutional deliveries - percentage of deliveries in a health facility,2018,81.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Djibouti,DJ,DJI,262,Institutional deliveries - percentage of deliveries in a health facility,2002,74.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Djibouti,DJ,DJI,262,Institutional deliveries - percentage of deliveries in a health facility,2006,87.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Djibouti,DJ,DJI,262,Institutional deliveries - percentage of deliveries in a health facility,2012,86.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,Institutional deliveries - percentage of deliveries in a health facility,2002,97.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,Institutional deliveries - percentage of deliveries in a health facility,2006,95.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,Institutional deliveries - percentage of deliveries in a health facility,2007,97.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,Institutional deliveries - percentage of deliveries in a health facility,2009,94,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,Institutional deliveries - percentage of deliveries in a health facility,2013,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,Institutional deliveries - percentage of deliveries in a health facility,2014,97.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Dominican Republic,DO,DOM,214,Institutional deliveries - percentage of deliveries in a health facility,2019,97.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ecuador,EC,ECU,218,Institutional deliveries - percentage of deliveries in a health facility,2004,74.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ecuador,EC,ECU,218,Institutional deliveries - percentage of deliveries in a health facility,2006,84.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ecuador,EC,ECU,218,Institutional deliveries - percentage of deliveries in a health facility,2010,92,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ecuador,EC,ECU,218,Institutional deliveries - percentage of deliveries in a health facility,2012,92.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ecuador,EC,ECU,218,Institutional deliveries - percentage of deliveries in a health facility,2014,93.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Egypt,EG,EGY,818,Institutional deliveries - percentage of deliveries in a health facility,2000,48.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Egypt,EG,EGY,818,Institutional deliveries - percentage of deliveries in a health facility,2003,59,Total,Units,%,Reported,Free,End of fieldwork,Total
+Egypt,EG,EGY,818,Institutional deliveries - percentage of deliveries in a health facility,2005,64.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Egypt,EG,EGY,818,Institutional deliveries - percentage of deliveries in a health facility,2008,71.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Egypt,EG,EGY,818,Institutional deliveries - percentage of deliveries in a health facility,2014,86.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+El Salvador,SV,SLV,222,Institutional deliveries - percentage of deliveries in a health facility,2003,69.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+El Salvador,SV,SLV,222,Institutional deliveries - percentage of deliveries in a health facility,2008,84.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+El Salvador,SV,SLV,222,Institutional deliveries - percentage of deliveries in a health facility,2010,78.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+El Salvador,SV,SLV,222,Institutional deliveries - percentage of deliveries in a health facility,2011,90.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+El Salvador,SV,SLV,222,Institutional deliveries - percentage of deliveries in a health facility,2012,91.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+El Salvador,SV,SLV,222,Institutional deliveries - percentage of deliveries in a health facility,2013,95.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+El Salvador,SV,SLV,222,Institutional deliveries - percentage of deliveries in a health facility,2014,97.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Equatorial Guinea,GQ,GNQ,226,Institutional deliveries - percentage of deliveries in a health facility,2011,67.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Eritrea,ER,ERI,232,Institutional deliveries - percentage of deliveries in a health facility,2002,26.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Eritrea,ER,ERI,232,Institutional deliveries - percentage of deliveries in a health facility,2010,33.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2000,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2001,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2002,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2003,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2004,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2005,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2006,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2007,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2008,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2009,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2010,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2011,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2012,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2013,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2014,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2015,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2016,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2017,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2018,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Estonia,EE,EST,233,Institutional deliveries - percentage of deliveries in a health facility,2019,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Swaziland,SZ,SWZ,748,Institutional deliveries - percentage of deliveries in a health facility,2007,74.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Swaziland,SZ,SWZ,748,Institutional deliveries - percentage of deliveries in a health facility,2010,80.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Swaziland,SZ,SWZ,748,Institutional deliveries - percentage of deliveries in a health facility,2014,87.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,Institutional deliveries - percentage of deliveries in a health facility,2000,5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,Institutional deliveries - percentage of deliveries in a health facility,2005,5.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,Institutional deliveries - percentage of deliveries in a health facility,2011,9.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,Institutional deliveries - percentage of deliveries in a health facility,2014,16.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,Institutional deliveries - percentage of deliveries in a health facility,2016,26.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ethiopia,ET,ETH,231,Institutional deliveries - percentage of deliveries in a health facility,2019,47.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Fiji,FJ,FJI,242,Institutional deliveries - percentage of deliveries in a health facility,2000,96.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Fiji,FJ,FJI,242,Institutional deliveries - percentage of deliveries in a health facility,2001,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Fiji,FJ,FJI,242,Institutional deliveries - percentage of deliveries in a health facility,2002,96.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Fiji,FJ,FJI,242,Institutional deliveries - percentage of deliveries in a health facility,2003,96.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Fiji,FJ,FJI,242,Institutional deliveries - percentage of deliveries in a health facility,2004,97,Total,Units,%,Reported,Free,End of fieldwork,Total
+Fiji,FJ,FJI,242,Institutional deliveries - percentage of deliveries in a health facility,2005,97.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Fiji,FJ,FJI,242,Institutional deliveries - percentage of deliveries in a health facility,2013,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Fiji,FJ,FJI,242,Institutional deliveries - percentage of deliveries in a health facility,2021,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2000,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2001,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2002,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2003,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2004,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2005,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2006,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2007,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2008,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2009,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2010,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2011,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2014,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Finland,FI,FIN,246,Institutional deliveries - percentage of deliveries in a health facility,2015,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,Institutional deliveries - percentage of deliveries in a health facility,2001,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,Institutional deliveries - percentage of deliveries in a health facility,2004,98,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,Institutional deliveries - percentage of deliveries in a health facility,2005,97.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,Institutional deliveries - percentage of deliveries in a health facility,2006,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,Institutional deliveries - percentage of deliveries in a health facility,2007,98.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,Institutional deliveries - percentage of deliveries in a health facility,2008,98,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,Institutional deliveries - percentage of deliveries in a health facility,2009,97.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,Institutional deliveries - percentage of deliveries in a health facility,2010,97.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,Institutional deliveries - percentage of deliveries in a health facility,2011,96.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,Institutional deliveries - percentage of deliveries in a health facility,2012,97.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+France,FR,FRA,250,Institutional deliveries - percentage of deliveries in a health facility,2013,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gabon,GA,GAB,266,Institutional deliveries - percentage of deliveries in a health facility,2001,84.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gabon,GA,GAB,266,Institutional deliveries - percentage of deliveries in a health facility,2012,90.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gambia,GM,GMB,270,Institutional deliveries - percentage of deliveries in a health facility,2006,54.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gambia,GM,GMB,270,Institutional deliveries - percentage of deliveries in a health facility,2010,55.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gambia,GM,GMB,270,Institutional deliveries - percentage of deliveries in a health facility,2013,62.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gambia,GM,GMB,270,Institutional deliveries - percentage of deliveries in a health facility,2018,81.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Gambia,GM,GMB,270,Institutional deliveries - percentage of deliveries in a health facility,2020,83.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,Institutional deliveries - percentage of deliveries in a health facility,2000,92.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,Institutional deliveries - percentage of deliveries in a health facility,2005,95.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,Institutional deliveries - percentage of deliveries in a health facility,2009,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,Institutional deliveries - percentage of deliveries in a health facility,2010,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,Institutional deliveries - percentage of deliveries in a health facility,2013,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,Institutional deliveries - percentage of deliveries in a health facility,2014,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,Institutional deliveries - percentage of deliveries in a health facility,2016,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Georgia,GE,GEO,268,Institutional deliveries - percentage of deliveries in a health facility,2018,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2000,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2001,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2002,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2003,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2004,98.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2005,98.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2006,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2007,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2008,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2009,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2010,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2011,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2012,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2013,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Germany,DE,DEU,276,Institutional deliveries - percentage of deliveries in a health facility,2014,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,Institutional deliveries - percentage of deliveries in a health facility,2003,45.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,Institutional deliveries - percentage of deliveries in a health facility,2006,48.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,Institutional deliveries - percentage of deliveries in a health facility,2007,54.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,Institutional deliveries - percentage of deliveries in a health facility,2008,57.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,Institutional deliveries - percentage of deliveries in a health facility,2011,67.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,Institutional deliveries - percentage of deliveries in a health facility,2014,73.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,Institutional deliveries - percentage of deliveries in a health facility,2017,78.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ghana,GH,GHA,288,Institutional deliveries - percentage of deliveries in a health facility,2018,77.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guatemala,GT,GTM,320,Institutional deliveries - percentage of deliveries in a health facility,2002,42.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guatemala,GT,GTM,320,Institutional deliveries - percentage of deliveries in a health facility,2009,51.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guatemala,GT,GTM,320,Institutional deliveries - percentage of deliveries in a health facility,2013,63.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guatemala,GT,GTM,320,Institutional deliveries - percentage of deliveries in a health facility,2015,65,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea,GN,GIN,324,Institutional deliveries - percentage of deliveries in a health facility,2005,30.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea,GN,GIN,324,Institutional deliveries - percentage of deliveries in a health facility,2008,39.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea,GN,GIN,324,Institutional deliveries - percentage of deliveries in a health facility,2012,40.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea,GN,GIN,324,Institutional deliveries - percentage of deliveries in a health facility,2016,57.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea,GN,GIN,324,Institutional deliveries - percentage of deliveries in a health facility,2018,52.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Institutional deliveries - percentage of deliveries in a health facility,2006,35.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Institutional deliveries - percentage of deliveries in a health facility,2010,41.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Institutional deliveries - percentage of deliveries in a health facility,2014,44,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guinea-Bissau,GW,GNB,624,Institutional deliveries - percentage of deliveries in a health facility,2019,50.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guyana,GY,GUY,328,Institutional deliveries - percentage of deliveries in a health facility,2007,82.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guyana,GY,GUY,328,Institutional deliveries - percentage of deliveries in a health facility,2009,89,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guyana,GY,GUY,328,Institutional deliveries - percentage of deliveries in a health facility,2014,92.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Guyana,GY,GUY,328,Institutional deliveries - percentage of deliveries in a health facility,2020,97.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Haiti,HT,HTI,332,Institutional deliveries - percentage of deliveries in a health facility,2000,23.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Haiti,HT,HTI,332,Institutional deliveries - percentage of deliveries in a health facility,2006,24.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Haiti,HT,HTI,332,Institutional deliveries - percentage of deliveries in a health facility,2012,35.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Haiti,HT,HTI,332,Institutional deliveries - percentage of deliveries in a health facility,2017,39.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Honduras,HN,HND,340,Institutional deliveries - percentage of deliveries in a health facility,2000,55.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Honduras,HN,HND,340,Institutional deliveries - percentage of deliveries in a health facility,2006,66.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Honduras,HN,HND,340,Institutional deliveries - percentage of deliveries in a health facility,2012,82.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Honduras,HN,HND,340,Institutional deliveries - percentage of deliveries in a health facility,2019,92,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2000,34.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2005,34.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2006,38.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2007,38.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2008,46.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2009,57.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2010,60.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2011,66.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2013,74.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2014,78.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2016,78.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+India,IN,IND,356,Institutional deliveries - percentage of deliveries in a health facility,2021,88.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,Institutional deliveries - percentage of deliveries in a health facility,2003,39.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,Institutional deliveries - percentage of deliveries in a health facility,2007,46.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,Institutional deliveries - percentage of deliveries in a health facility,2010,55.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,Institutional deliveries - percentage of deliveries in a health facility,2012,63.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,Institutional deliveries - percentage of deliveries in a health facility,2013,70.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,Institutional deliveries - percentage of deliveries in a health facility,2016,79.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Indonesia,ID,IDN,360,Institutional deliveries - percentage of deliveries in a health facility,2017,79,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Iran, Islamic Republic of",IR,IRN,364,Institutional deliveries - percentage of deliveries in a health facility,2000,83.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Iran, Islamic Republic of",IR,IRN,364,Institutional deliveries - percentage of deliveries in a health facility,2005,96.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Iran, Islamic Republic of",IR,IRN,364,Institutional deliveries - percentage of deliveries in a health facility,2010,95.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Iraq,IQ,IRQ,368,Institutional deliveries - percentage of deliveries in a health facility,2006,62.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Iraq,IQ,IRQ,368,Institutional deliveries - percentage of deliveries in a health facility,2007,65.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Iraq,IQ,IRQ,368,Institutional deliveries - percentage of deliveries in a health facility,2011,76.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Iraq,IQ,IRQ,368,Institutional deliveries - percentage of deliveries in a health facility,2018,86.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2000,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2001,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2002,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2003,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2004,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2005,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2006,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2007,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2008,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2009,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2010,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2011,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2013,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ireland,IE,IRL,372,Institutional deliveries - percentage of deliveries in a health facility,2014,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2000,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2002,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2003,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2004,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2005,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2006,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2007,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2008,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2009,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2010,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2011,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Italy,IT,ITA,380,Institutional deliveries - percentage of deliveries in a health facility,2013,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jamaica,JM,JAM,388,Institutional deliveries - percentage of deliveries in a health facility,2000,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jamaica,JM,JAM,388,Institutional deliveries - percentage of deliveries in a health facility,2001,96.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jamaica,JM,JAM,388,Institutional deliveries - percentage of deliveries in a health facility,2002,97.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jamaica,JM,JAM,388,Institutional deliveries - percentage of deliveries in a health facility,2003,97.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jamaica,JM,JAM,388,Institutional deliveries - percentage of deliveries in a health facility,2004,98.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jamaica,JM,JAM,388,Institutional deliveries - percentage of deliveries in a health facility,2005,94.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jamaica,JM,JAM,388,Institutional deliveries - percentage of deliveries in a health facility,2009,97.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jamaica,JM,JAM,388,Institutional deliveries - percentage of deliveries in a health facility,2011,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jamaica,JM,JAM,388,Institutional deliveries - percentage of deliveries in a health facility,2018,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2000,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2001,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2002,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2003,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2004,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2005,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2006,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2007,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2008,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2009,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2010,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2011,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Japan,JP,JPN,392,Institutional deliveries - percentage of deliveries in a health facility,2014,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jordan,JO,JOR,400,Institutional deliveries - percentage of deliveries in a health facility,2002,96.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jordan,JO,JOR,400,Institutional deliveries - percentage of deliveries in a health facility,2007,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jordan,JO,JOR,400,Institutional deliveries - percentage of deliveries in a health facility,2012,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Jordan,JO,JOR,400,Institutional deliveries - percentage of deliveries in a health facility,2018,98.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Institutional deliveries - percentage of deliveries in a health facility,2006,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Institutional deliveries - percentage of deliveries in a health facility,2011,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Institutional deliveries - percentage of deliveries in a health facility,2013,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kazakhstan,KZ,KAZ,398,Institutional deliveries - percentage of deliveries in a health facility,2015,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kenya,KE,KEN,404,Institutional deliveries - percentage of deliveries in a health facility,2003,40.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kenya,KE,KEN,404,Institutional deliveries - percentage of deliveries in a health facility,2006,39.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kenya,KE,KEN,404,Institutional deliveries - percentage of deliveries in a health facility,2009,42.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kenya,KE,KEN,404,Institutional deliveries - percentage of deliveries in a health facility,2014,61.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kiribati,KI,KIR,296,Institutional deliveries - percentage of deliveries in a health facility,2009,65.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kiribati,KI,KIR,296,Institutional deliveries - percentage of deliveries in a health facility,2019,86.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kuwait,KW,KWT,414,Institutional deliveries - percentage of deliveries in a health facility,2004,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kuwait,KW,KWT,414,Institutional deliveries - percentage of deliveries in a health facility,2005,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kuwait,KW,KWT,414,Institutional deliveries - percentage of deliveries in a health facility,2006,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kuwait,KW,KWT,414,Institutional deliveries - percentage of deliveries in a health facility,2007,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kuwait,KW,KWT,414,Institutional deliveries - percentage of deliveries in a health facility,2008,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kuwait,KW,KWT,414,Institutional deliveries - percentage of deliveries in a health facility,2009,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kuwait,KW,KWT,414,Institutional deliveries - percentage of deliveries in a health facility,2010,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kuwait,KW,KWT,414,Institutional deliveries - percentage of deliveries in a health facility,2011,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kuwait,KW,KWT,414,Institutional deliveries - percentage of deliveries in a health facility,2012,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kuwait,KW,KWT,414,Institutional deliveries - percentage of deliveries in a health facility,2013,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kuwait,KW,KWT,414,Institutional deliveries - percentage of deliveries in a health facility,2014,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Institutional deliveries - percentage of deliveries in a health facility,2006,96.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Institutional deliveries - percentage of deliveries in a health facility,2012,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Institutional deliveries - percentage of deliveries in a health facility,2014,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Institutional deliveries - percentage of deliveries in a health facility,2018,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Kyrgyzstan,KG,KGZ,417,Institutional deliveries - percentage of deliveries in a health facility,2020,100,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Institutional deliveries - percentage of deliveries in a health facility,2005,12.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Institutional deliveries - percentage of deliveries in a health facility,2006,17.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Institutional deliveries - percentage of deliveries in a health facility,2012,37.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lao People's Democratic Republic,LA,LAO,418,Institutional deliveries - percentage of deliveries in a health facility,2017,64.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Latvia,LV,LVA,428,Institutional deliveries - percentage of deliveries in a health facility,2007,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Latvia,LV,LVA,428,Institutional deliveries - percentage of deliveries in a health facility,2008,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Latvia,LV,LVA,428,Institutional deliveries - percentage of deliveries in a health facility,2009,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Latvia,LV,LVA,428,Institutional deliveries - percentage of deliveries in a health facility,2010,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Latvia,LV,LVA,428,Institutional deliveries - percentage of deliveries in a health facility,2011,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Latvia,LV,LVA,428,Institutional deliveries - percentage of deliveries in a health facility,2012,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Latvia,LV,LVA,428,Institutional deliveries - percentage of deliveries in a health facility,2013,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Latvia,LV,LVA,428,Institutional deliveries - percentage of deliveries in a health facility,2014,98.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lebanon,LB,LBN,422,Institutional deliveries - percentage of deliveries in a health facility,2000,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lesotho,LS,LSO,426,Institutional deliveries - percentage of deliveries in a health facility,2005,52.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lesotho,LS,LSO,426,Institutional deliveries - percentage of deliveries in a health facility,2009,58.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lesotho,LS,LSO,426,Institutional deliveries - percentage of deliveries in a health facility,2014,76.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Lesotho,LS,LSO,426,Institutional deliveries - percentage of deliveries in a health facility,2018,89.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Liberia,LR,LBR,430,Institutional deliveries - percentage of deliveries in a health facility,2000,36.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Liberia,LR,LBR,430,Institutional deliveries - percentage of deliveries in a health facility,2007,36.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Liberia,LR,LBR,430,Institutional deliveries - percentage of deliveries in a health facility,2013,55.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Liberia,LR,LBR,430,Institutional deliveries - percentage of deliveries in a health facility,2020,79.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Institutional deliveries - percentage of deliveries in a health facility,2007,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Libya,LY,LBY,434,Institutional deliveries - percentage of deliveries in a health facility,2007,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Institutional deliveries - percentage of deliveries in a health facility,2010,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Libya,LY,LBY,434,Institutional deliveries - percentage of deliveries in a health facility,2010,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Libyan Arab Jamahiriya,LY,LBY,434,Institutional deliveries - percentage of deliveries in a health facility,2013,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Libya,LY,LBY,434,Institutional deliveries - percentage of deliveries in a health facility,2013,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Luxembourg,LU,LUX,442,Institutional deliveries - percentage of deliveries in a health facility,2003,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Luxembourg,LU,LUX,442,Institutional deliveries - percentage of deliveries in a health facility,2009,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Madagascar,MG,MDG,450,Institutional deliveries - percentage of deliveries in a health facility,2004,31.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Madagascar,MG,MDG,450,Institutional deliveries - percentage of deliveries in a health facility,2009,35.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Madagascar,MG,MDG,450,Institutional deliveries - percentage of deliveries in a health facility,2013,37.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Madagascar,MG,MDG,450,Institutional deliveries - percentage of deliveries in a health facility,2018,38.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Madagascar,MG,MDG,450,Institutional deliveries - percentage of deliveries in a health facility,2021,38.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,Institutional deliveries - percentage of deliveries in a health facility,2000,55.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,Institutional deliveries - percentage of deliveries in a health facility,2005,57.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,Institutional deliveries - percentage of deliveries in a health facility,2006,53.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,Institutional deliveries - percentage of deliveries in a health facility,2010,73.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,Institutional deliveries - percentage of deliveries in a health facility,2014,88.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,Institutional deliveries - percentage of deliveries in a health facility,2016,91.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malawi,MW,MWI,454,Institutional deliveries - percentage of deliveries in a health facility,2020,96.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malaysia,MY,MYS,458,Institutional deliveries - percentage of deliveries in a health facility,2003,96.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malaysia,MY,MYS,458,Institutional deliveries - percentage of deliveries in a health facility,2005,98,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malaysia,MY,MYS,458,Institutional deliveries - percentage of deliveries in a health facility,2009,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malaysia,MY,MYS,458,Institutional deliveries - percentage of deliveries in a health facility,2012,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malaysia,MY,MYS,458,Institutional deliveries - percentage of deliveries in a health facility,2013,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malaysia,MY,MYS,458,Institutional deliveries - percentage of deliveries in a health facility,2014,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Maldives,MV,MDV,462,Institutional deliveries - percentage of deliveries in a health facility,2009,95.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Maldives,MV,MDV,462,Institutional deliveries - percentage of deliveries in a health facility,2017,94.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,Institutional deliveries - percentage of deliveries in a health facility,2001,37.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,Institutional deliveries - percentage of deliveries in a health facility,2006,45.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,Institutional deliveries - percentage of deliveries in a health facility,2010,55.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,Institutional deliveries - percentage of deliveries in a health facility,2013,55,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,Institutional deliveries - percentage of deliveries in a health facility,2015,64.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mali,ML,MLI,466,Institutional deliveries - percentage of deliveries in a health facility,2018,66.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2001,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2002,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2003,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2004,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2005,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2006,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2007,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2008,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2009,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2010,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2011,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2012,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Malta,MT,MLT,470,Institutional deliveries - percentage of deliveries in a health facility,2013,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Marshall Islands,MH,MHL,584,Institutional deliveries - percentage of deliveries in a health facility,2007,85.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mauritania,MR,MRT,478,Institutional deliveries - percentage of deliveries in a health facility,2001,48.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mauritania,MR,MRT,478,Institutional deliveries - percentage of deliveries in a health facility,2007,48.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mauritania,MR,MRT,478,Institutional deliveries - percentage of deliveries in a health facility,2011,64.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mauritania,MR,MRT,478,Institutional deliveries - percentage of deliveries in a health facility,2015,69.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mauritania,MR,MRT,478,Institutional deliveries - percentage of deliveries in a health facility,2021,70,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mauritius,MU,MUS,480,Institutional deliveries - percentage of deliveries in a health facility,2003,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,Institutional deliveries - percentage of deliveries in a health facility,2002,94.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,Institutional deliveries - percentage of deliveries in a health facility,2003,95,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,Institutional deliveries - percentage of deliveries in a health facility,2004,83.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,Institutional deliveries - percentage of deliveries in a health facility,2005,86.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,Institutional deliveries - percentage of deliveries in a health facility,2007,80.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,Institutional deliveries - percentage of deliveries in a health facility,2012,94.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,Institutional deliveries - percentage of deliveries in a health facility,2014,95.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mexico,MX,MEX,484,Institutional deliveries - percentage of deliveries in a health facility,2015,96.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Micronesia, Federated States of",FM,FSM,583,Institutional deliveries - percentage of deliveries in a health facility,2006,87,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mongolia,MN,MNG,496,Institutional deliveries - percentage of deliveries in a health facility,2003,97.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mongolia,MN,MNG,496,Institutional deliveries - percentage of deliveries in a health facility,2005,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mongolia,MN,MNG,496,Institutional deliveries - percentage of deliveries in a health facility,2008,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mongolia,MN,MNG,496,Institutional deliveries - percentage of deliveries in a health facility,2010,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mongolia,MN,MNG,496,Institutional deliveries - percentage of deliveries in a health facility,2014,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mongolia,MN,MNG,496,Institutional deliveries - percentage of deliveries in a health facility,2018,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,Institutional deliveries - percentage of deliveries in a health facility,2001,96.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,Institutional deliveries - percentage of deliveries in a health facility,2002,98,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,Institutional deliveries - percentage of deliveries in a health facility,2003,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,Institutional deliveries - percentage of deliveries in a health facility,2004,98.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,Institutional deliveries - percentage of deliveries in a health facility,2005,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,Institutional deliveries - percentage of deliveries in a health facility,2006,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,Institutional deliveries - percentage of deliveries in a health facility,2007,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,Institutional deliveries - percentage of deliveries in a health facility,2008,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,Institutional deliveries - percentage of deliveries in a health facility,2009,100,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,Institutional deliveries - percentage of deliveries in a health facility,2013,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Montenegro,ME,MNE,499,Institutional deliveries - percentage of deliveries in a health facility,2018,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Morocco,MA,MAR,504,Institutional deliveries - percentage of deliveries in a health facility,2004,60.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Morocco,MA,MAR,504,Institutional deliveries - percentage of deliveries in a health facility,2011,72.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Morocco,MA,MAR,504,Institutional deliveries - percentage of deliveries in a health facility,2018,86.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mozambique,MZ,MOZ,508,Institutional deliveries - percentage of deliveries in a health facility,2003,47.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mozambique,MZ,MOZ,508,Institutional deliveries - percentage of deliveries in a health facility,2004,46.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mozambique,MZ,MOZ,508,Institutional deliveries - percentage of deliveries in a health facility,2005,48.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mozambique,MZ,MOZ,508,Institutional deliveries - percentage of deliveries in a health facility,2006,48.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mozambique,MZ,MOZ,508,Institutional deliveries - percentage of deliveries in a health facility,2007,51.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mozambique,MZ,MOZ,508,Institutional deliveries - percentage of deliveries in a health facility,2008,58,Total,Units,%,Reported,Free,End of fieldwork,Total
+Mozambique,MZ,MOZ,508,Institutional deliveries - percentage of deliveries in a health facility,2011,54.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Myanmar,MM,MMR,104,Institutional deliveries - percentage of deliveries in a health facility,2001,16,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burma,MM,MMR,104,Institutional deliveries - percentage of deliveries in a health facility,2001,16,Total,Units,%,Reported,Free,End of fieldwork,Total
+Myanmar,MM,MMR,104,Institutional deliveries - percentage of deliveries in a health facility,2007,22.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burma,MM,MMR,104,Institutional deliveries - percentage of deliveries in a health facility,2007,22.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Myanmar,MM,MMR,104,Institutional deliveries - percentage of deliveries in a health facility,2010,36.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burma,MM,MMR,104,Institutional deliveries - percentage of deliveries in a health facility,2010,36.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Myanmar,MM,MMR,104,Institutional deliveries - percentage of deliveries in a health facility,2016,37.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Burma,MM,MMR,104,Institutional deliveries - percentage of deliveries in a health facility,2016,37.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Namibia,,NAM,516,Institutional deliveries - percentage of deliveries in a health facility,2000,74.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Namibia,,NAM,516,Institutional deliveries - percentage of deliveries in a health facility,2007,80.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Namibia,,NAM,516,Institutional deliveries - percentage of deliveries in a health facility,2013,87.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nauru,NR,NRU,520,Institutional deliveries - percentage of deliveries in a health facility,2007,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,Institutional deliveries - percentage of deliveries in a health facility,2001,9.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,Institutional deliveries - percentage of deliveries in a health facility,2004,15.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,Institutional deliveries - percentage of deliveries in a health facility,2006,17.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,Institutional deliveries - percentage of deliveries in a health facility,2011,35.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,Institutional deliveries - percentage of deliveries in a health facility,2014,55.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,Institutional deliveries - percentage of deliveries in a health facility,2016,57.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nepal,NP,NPL,524,Institutional deliveries - percentage of deliveries in a health facility,2019,77.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,Institutional deliveries - percentage of deliveries in a health facility,2000,97.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,Institutional deliveries - percentage of deliveries in a health facility,2001,96.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,Institutional deliveries - percentage of deliveries in a health facility,2002,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,Institutional deliveries - percentage of deliveries in a health facility,2003,98.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,Institutional deliveries - percentage of deliveries in a health facility,2004,94,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,Institutional deliveries - percentage of deliveries in a health facility,2005,94,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,Institutional deliveries - percentage of deliveries in a health facility,2006,97.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,Institutional deliveries - percentage of deliveries in a health facility,2007,95.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,Institutional deliveries - percentage of deliveries in a health facility,2010,96.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,Institutional deliveries - percentage of deliveries in a health facility,2011,96.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+New Zealand,NZ,NZL,554,Institutional deliveries - percentage of deliveries in a health facility,2014,96.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nicaragua,NI,NIC,558,Institutional deliveries - percentage of deliveries in a health facility,2001,66.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nicaragua,NI,NIC,558,Institutional deliveries - percentage of deliveries in a health facility,2007,73.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nicaragua,NI,NIC,558,Institutional deliveries - percentage of deliveries in a health facility,2011,85.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nicaragua,NI,NIC,558,Institutional deliveries - percentage of deliveries in a health facility,2012,88.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nicaragua,NI,NIC,558,Institutional deliveries - percentage of deliveries in a health facility,2013,71,Total,Units,%,Reported,Free,End of fieldwork,Total
+Niger,NE,NER,562,Institutional deliveries - percentage of deliveries in a health facility,2006,17.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Niger,NE,NER,562,Institutional deliveries - percentage of deliveries in a health facility,2012,29.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Niger,NE,NER,562,Institutional deliveries - percentage of deliveries in a health facility,2015,58.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Niger,NE,NER,562,Institutional deliveries - percentage of deliveries in a health facility,2021,44.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,Institutional deliveries - percentage of deliveries in a health facility,2003,32.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,Institutional deliveries - percentage of deliveries in a health facility,2008,35,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,Institutional deliveries - percentage of deliveries in a health facility,2011,45.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,Institutional deliveries - percentage of deliveries in a health facility,2013,35.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,Institutional deliveries - percentage of deliveries in a health facility,2017,37.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,Institutional deliveries - percentage of deliveries in a health facility,2018,39.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Nigeria,NG,NGA,566,Institutional deliveries - percentage of deliveries in a health facility,2021,49,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Institutional deliveries - percentage of deliveries in a health facility,2002,98.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Institutional deliveries - percentage of deliveries in a health facility,2006,98.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Institutional deliveries - percentage of deliveries in a health facility,2011,98.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Institutional deliveries - percentage of deliveries in a health facility,2015,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Institutional deliveries - percentage of deliveries in a health facility,2019,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2000,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2001,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2002,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2003,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2004,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2005,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2006,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2007,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2008,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2009,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2010,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2011,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2012,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2013,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Norway,NO,NOR,578,Institutional deliveries - percentage of deliveries in a health facility,2014,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Oman,OM,OMN,512,Institutional deliveries - percentage of deliveries in a health facility,2000,93.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Oman,OM,OMN,512,Institutional deliveries - percentage of deliveries in a health facility,2006,98.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Oman,OM,OMN,512,Institutional deliveries - percentage of deliveries in a health facility,2007,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Oman,OM,OMN,512,Institutional deliveries - percentage of deliveries in a health facility,2008,97.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Oman,OM,OMN,512,Institutional deliveries - percentage of deliveries in a health facility,2014,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2000,22.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2002,21,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2003,28.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2005,28,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2006,48,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2007,34.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2008,36,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2009,35,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2011,41,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2012,48,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2013,48.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2014,56,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2015,55,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2018,66.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2019,71.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Pakistan,PK,PAK,586,Institutional deliveries - percentage of deliveries in a health facility,2020,70,Total,Units,%,Reported,Free,End of fieldwork,Total
+Palau,PW,PLW,585,Institutional deliveries - percentage of deliveries in a health facility,2010,100,Total,Units,%,Reported,Free,End of fieldwork,Total
+Panama,PA,PAN,591,Institutional deliveries - percentage of deliveries in a health facility,2003,92.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Panama,PA,PAN,591,Institutional deliveries - percentage of deliveries in a health facility,2009,88.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Panama,PA,PAN,591,Institutional deliveries - percentage of deliveries in a health facility,2013,91.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Panama,PA,PAN,591,Institutional deliveries - percentage of deliveries in a health facility,2015,96,Total,Units,%,Reported,Free,End of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Institutional deliveries - percentage of deliveries in a health facility,2006,51.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Institutional deliveries - percentage of deliveries in a health facility,2007,41,Total,Units,%,Reported,Free,End of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Institutional deliveries - percentage of deliveries in a health facility,2008,43,Total,Units,%,Reported,Free,End of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Institutional deliveries - percentage of deliveries in a health facility,2009,42,Total,Units,%,Reported,Free,End of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Institutional deliveries - percentage of deliveries in a health facility,2010,40,Total,Units,%,Reported,Free,End of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Institutional deliveries - percentage of deliveries in a health facility,2011,40,Total,Units,%,Reported,Free,End of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Institutional deliveries - percentage of deliveries in a health facility,2012,44,Total,Units,%,Reported,Free,End of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Institutional deliveries - percentage of deliveries in a health facility,2013,43,Total,Units,%,Reported,Free,End of fieldwork,Total
+Papua New Guinea,PG,PNG,598,Institutional deliveries - percentage of deliveries in a health facility,2018,54.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,Institutional deliveries - percentage of deliveries in a health facility,2003,86.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,Institutional deliveries - percentage of deliveries in a health facility,2004,74.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,Institutional deliveries - percentage of deliveries in a health facility,2005,87.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,Institutional deliveries - percentage of deliveries in a health facility,2006,90.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,Institutional deliveries - percentage of deliveries in a health facility,2008,84.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,Institutional deliveries - percentage of deliveries in a health facility,2009,93.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,Institutional deliveries - percentage of deliveries in a health facility,2010,95.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,Institutional deliveries - percentage of deliveries in a health facility,2011,96.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,Institutional deliveries - percentage of deliveries in a health facility,2012,95.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,Institutional deliveries - percentage of deliveries in a health facility,2015,97,Total,Units,%,Reported,Free,End of fieldwork,Total
+Paraguay,PY,PRY,600,Institutional deliveries - percentage of deliveries in a health facility,2016,93.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2000,57.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2001,44.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2002,51.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2003,59.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2004,70.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2006,71.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2008,79.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2009,82,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2010,84.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2011,85.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2012,86.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2013,88.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2014,89.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2015,91,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2016,92.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2017,93,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2018,92.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2019,92.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2020,94.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Peru,PE,PER,604,Institutional deliveries - percentage of deliveries in a health facility,2021,93.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Philippines,PH,PHL,608,Institutional deliveries - percentage of deliveries in a health facility,2003,37.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Philippines,PH,PHL,608,Institutional deliveries - percentage of deliveries in a health facility,2008,44.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Philippines,PH,PHL,608,Institutional deliveries - percentage of deliveries in a health facility,2011,55.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Philippines,PH,PHL,608,Institutional deliveries - percentage of deliveries in a health facility,2013,61.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Philippines,PH,PHL,608,Institutional deliveries - percentage of deliveries in a health facility,2017,77.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,Institutional deliveries - percentage of deliveries in a health facility,2000,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,Institutional deliveries - percentage of deliveries in a health facility,2005,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,Institutional deliveries - percentage of deliveries in a health facility,2006,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,Institutional deliveries - percentage of deliveries in a health facility,2007,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,Institutional deliveries - percentage of deliveries in a health facility,2008,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,Institutional deliveries - percentage of deliveries in a health facility,2009,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,Institutional deliveries - percentage of deliveries in a health facility,2010,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,Institutional deliveries - percentage of deliveries in a health facility,2011,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,Institutional deliveries - percentage of deliveries in a health facility,2013,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Poland,PL,POL,616,Institutional deliveries - percentage of deliveries in a health facility,2014,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Portugal,PT,PRT,620,Institutional deliveries - percentage of deliveries in a health facility,2013,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Portugal,PT,PRT,620,Institutional deliveries - percentage of deliveries in a health facility,2014,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Portugal,PT,PRT,620,Institutional deliveries - percentage of deliveries in a health facility,2015,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Qatar,QA,QAT,634,Institutional deliveries - percentage of deliveries in a health facility,2012,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Korea, Republic of",KR,KOR,410,Institutional deliveries - percentage of deliveries in a health facility,2000,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Korea,KR,KOR,410,Institutional deliveries - percentage of deliveries in a health facility,2000,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Korea, Republic of",KR,KOR,410,Institutional deliveries - percentage of deliveries in a health facility,2003,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Korea,KR,KOR,410,Institutional deliveries - percentage of deliveries in a health facility,2003,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Korea, Republic of",KR,KOR,410,Institutional deliveries - percentage of deliveries in a health facility,2009,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Korea,KR,KOR,410,Institutional deliveries - percentage of deliveries in a health facility,2009,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Korea, Republic of",KR,KOR,410,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Korea,KR,KOR,410,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Korea, Republic of",KR,KOR,410,Institutional deliveries - percentage of deliveries in a health facility,2015,100,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Korea,KR,KOR,410,Institutional deliveries - percentage of deliveries in a health facility,2015,100,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Institutional deliveries - percentage of deliveries in a health facility,2005,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Institutional deliveries - percentage of deliveries in a health facility,2009,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Institutional deliveries - percentage of deliveries in a health facility,2010,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Institutional deliveries - percentage of deliveries in a health facility,2011,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Moldova, Republic of",MD,MDA,498,Institutional deliveries - percentage of deliveries in a health facility,2012,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Romania,RO,ROU,642,Institutional deliveries - percentage of deliveries in a health facility,2004,97.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Romania,RO,ROU,642,Institutional deliveries - percentage of deliveries in a health facility,2008,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Romania,RO,ROU,642,Institutional deliveries - percentage of deliveries in a health facility,2009,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Romania,RO,ROU,642,Institutional deliveries - percentage of deliveries in a health facility,2010,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Romania,RO,ROU,642,Institutional deliveries - percentage of deliveries in a health facility,2011,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Romania,RO,ROU,642,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Romania,RO,ROU,642,Institutional deliveries - percentage of deliveries in a health facility,2015,94.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Russian Federation,RU,RUS,643,Institutional deliveries - percentage of deliveries in a health facility,2011,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Russia,RU,RUS,643,Institutional deliveries - percentage of deliveries in a health facility,2011,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,Institutional deliveries - percentage of deliveries in a health facility,2000,26.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,Institutional deliveries - percentage of deliveries in a health facility,2005,28.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,Institutional deliveries - percentage of deliveries in a health facility,2008,45.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,Institutional deliveries - percentage of deliveries in a health facility,2011,68.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,Institutional deliveries - percentage of deliveries in a health facility,2013,90.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,Institutional deliveries - percentage of deliveries in a health facility,2015,90.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Rwanda,RW,RWA,646,Institutional deliveries - percentage of deliveries in a health facility,2020,93.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Saint Lucia,LC,LCA,662,Institutional deliveries - percentage of deliveries in a health facility,2012,100,Total,Units,%,Reported,Free,End of fieldwork,Total
+Samoa,WS,WSM,882,Institutional deliveries - percentage of deliveries in a health facility,2009,80.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Samoa,WS,WSM,882,Institutional deliveries - percentage of deliveries in a health facility,2014,81.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Samoa,WS,WSM,882,Institutional deliveries - percentage of deliveries in a health facility,2020,88.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Institutional deliveries - percentage of deliveries in a health facility,2000,58,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Institutional deliveries - percentage of deliveries in a health facility,2001,68,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Institutional deliveries - percentage of deliveries in a health facility,2002,75,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Institutional deliveries - percentage of deliveries in a health facility,2003,76.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Institutional deliveries - percentage of deliveries in a health facility,2006,77.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Institutional deliveries - percentage of deliveries in a health facility,2009,78.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Institutional deliveries - percentage of deliveries in a health facility,2014,91,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sao Tome and Principe,ST,STP,678,Institutional deliveries - percentage of deliveries in a health facility,2019,95.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Saudi Arabia,SA,SAU,682,Institutional deliveries - percentage of deliveries in a health facility,2019,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,Institutional deliveries - percentage of deliveries in a health facility,2005,61.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,Institutional deliveries - percentage of deliveries in a health facility,2011,72.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,Institutional deliveries - percentage of deliveries in a health facility,2013,71.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,Institutional deliveries - percentage of deliveries in a health facility,2014,76.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,Institutional deliveries - percentage of deliveries in a health facility,2015,74.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,Institutional deliveries - percentage of deliveries in a health facility,2016,75.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,Institutional deliveries - percentage of deliveries in a health facility,2017,78.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,Institutional deliveries - percentage of deliveries in a health facility,2018,81.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Senegal,SN,SEN,686,Institutional deliveries - percentage of deliveries in a health facility,2019,80.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Serbia,RS,SRB,688,Institutional deliveries - percentage of deliveries in a health facility,2006,98.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Serbia,RS,SRB,688,Institutional deliveries - percentage of deliveries in a health facility,2010,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Serbia,RS,SRB,688,Institutional deliveries - percentage of deliveries in a health facility,2014,98.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Serbia,RS,SRB,688,Institutional deliveries - percentage of deliveries in a health facility,2019,100,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sierra Leone,SL,SLE,694,Institutional deliveries - percentage of deliveries in a health facility,2005,18.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sierra Leone,SL,SLE,694,Institutional deliveries - percentage of deliveries in a health facility,2008,24.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sierra Leone,SL,SLE,694,Institutional deliveries - percentage of deliveries in a health facility,2010,50.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sierra Leone,SL,SLE,694,Institutional deliveries - percentage of deliveries in a health facility,2013,54.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sierra Leone,SL,SLE,694,Institutional deliveries - percentage of deliveries in a health facility,2017,76.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sierra Leone,SL,SLE,694,Institutional deliveries - percentage of deliveries in a health facility,2019,83.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2000,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2001,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2002,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2003,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2004,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2005,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2006,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2007,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2008,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2009,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2010,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2011,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2012,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2013,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2014,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2015,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2016,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2017,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Singapore,SG,SGP,702,Institutional deliveries - percentage of deliveries in a health facility,2018,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Slovenia,SI,SVN,705,Institutional deliveries - percentage of deliveries in a health facility,2011,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Slovenia,SI,SVN,705,Institutional deliveries - percentage of deliveries in a health facility,2012,99.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Solomon Islands,SB,SLB,90,Institutional deliveries - percentage of deliveries in a health facility,2007,84.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Solomon Islands,SB,SLB,90,Institutional deliveries - percentage of deliveries in a health facility,2015,84.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Somalia,SO,SOM,706,Institutional deliveries - percentage of deliveries in a health facility,2002,8.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Somalia,SO,SOM,706,Institutional deliveries - percentage of deliveries in a health facility,2006,9.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Somalia,SO,SOM,706,Institutional deliveries - percentage of deliveries in a health facility,2019,20.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Africa,ZA,ZAF,710,Institutional deliveries - percentage of deliveries in a health facility,2004,88.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Africa,ZA,ZAF,710,Institutional deliveries - percentage of deliveries in a health facility,2008,94.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Africa,ZA,ZAF,710,Institutional deliveries - percentage of deliveries in a health facility,2016,95.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+South Sudan,SS,SSD,728,Institutional deliveries - percentage of deliveries in a health facility,2010,11.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sri Lanka,LK,LKA,144,Institutional deliveries - percentage of deliveries in a health facility,2000,97.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sri Lanka,LK,LKA,144,Institutional deliveries - percentage of deliveries in a health facility,2007,98.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sri Lanka,LK,LKA,144,Institutional deliveries - percentage of deliveries in a health facility,2014,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sri Lanka,LK,LKA,144,Institutional deliveries - percentage of deliveries in a health facility,2016,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Institutional deliveries - percentage of deliveries in a health facility,2004,96.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Institutional deliveries - percentage of deliveries in a health facility,2006,96.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Institutional deliveries - percentage of deliveries in a health facility,2010,98,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Institutional deliveries - percentage of deliveries in a health facility,2014,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Institutional deliveries - percentage of deliveries in a health facility,2020,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sudan,SD,SDN,736,Institutional deliveries - percentage of deliveries in a health facility,2010,20.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Sudan,SD,SDN,736,Institutional deliveries - percentage of deliveries in a health facility,2014,27.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Suriname,SR,SUR,740,Institutional deliveries - percentage of deliveries in a health facility,2006,88.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Suriname,SR,SUR,740,Institutional deliveries - percentage of deliveries in a health facility,2010,92.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Suriname,SR,SUR,740,Institutional deliveries - percentage of deliveries in a health facility,2018,92.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Syrian Arab Republic,SY,SYR,760,Institutional deliveries - percentage of deliveries in a health facility,2001,54.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Syrian Arab Republic,SY,SYR,760,Institutional deliveries - percentage of deliveries in a health facility,2006,70.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Syrian Arab Republic,SY,SYR,760,Institutional deliveries - percentage of deliveries in a health facility,2009,78.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tajikistan,TJ,TJK,762,Institutional deliveries - percentage of deliveries in a health facility,2005,61.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tajikistan,TJ,TJK,762,Institutional deliveries - percentage of deliveries in a health facility,2007,73.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tajikistan,TJ,TJK,762,Institutional deliveries - percentage of deliveries in a health facility,2010,87.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tajikistan,TJ,TJK,762,Institutional deliveries - percentage of deliveries in a health facility,2012,76.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tajikistan,TJ,TJK,762,Institutional deliveries - percentage of deliveries in a health facility,2017,88.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Thailand,TH,THA,764,Institutional deliveries - percentage of deliveries in a health facility,2006,96.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Thailand,TH,THA,764,Institutional deliveries - percentage of deliveries in a health facility,2009,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Thailand,TH,THA,764,Institutional deliveries - percentage of deliveries in a health facility,2012,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Thailand,TH,THA,764,Institutional deliveries - percentage of deliveries in a health facility,2016,98.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Thailand,TH,THA,764,Institutional deliveries - percentage of deliveries in a health facility,2019,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Timor-Leste,TL,TLS,626,Institutional deliveries - percentage of deliveries in a health facility,2003,9.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Timor-Leste,TL,TLS,626,Institutional deliveries - percentage of deliveries in a health facility,2010,22.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Timor-Leste,TL,TLS,626,Institutional deliveries - percentage of deliveries in a health facility,2016,48.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Togo,TG,TGO,768,Institutional deliveries - percentage of deliveries in a health facility,2003,60.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Togo,TG,TGO,768,Institutional deliveries - percentage of deliveries in a health facility,2006,62.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Togo,TG,TGO,768,Institutional deliveries - percentage of deliveries in a health facility,2010,66.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Togo,TG,TGO,768,Institutional deliveries - percentage of deliveries in a health facility,2014,72.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Togo,TG,TGO,768,Institutional deliveries - percentage of deliveries in a health facility,2017,80,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tonga,TO,TON,776,Institutional deliveries - percentage of deliveries in a health facility,2010,98,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tonga,TO,TON,776,Institutional deliveries - percentage of deliveries in a health facility,2012,98,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tonga,TO,TON,776,Institutional deliveries - percentage of deliveries in a health facility,2019,97.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Institutional deliveries - percentage of deliveries in a health facility,2000,99.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Institutional deliveries - percentage of deliveries in a health facility,2001,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Institutional deliveries - percentage of deliveries in a health facility,2002,98.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Institutional deliveries - percentage of deliveries in a health facility,2003,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Institutional deliveries - percentage of deliveries in a health facility,2004,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Institutional deliveries - percentage of deliveries in a health facility,2006,97.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Trinidad and Tobago,TT,TTO,780,Institutional deliveries - percentage of deliveries in a health facility,2011,97.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tunisia,TN,TUN,788,Institutional deliveries - percentage of deliveries in a health facility,2000,89.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tunisia,TN,TUN,788,Institutional deliveries - percentage of deliveries in a health facility,2012,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tunisia,TN,TUN,788,Institutional deliveries - percentage of deliveries in a health facility,2018,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkmenistan,TM,TKM,795,Institutional deliveries - percentage of deliveries in a health facility,2000,94.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkmenistan,TM,TKM,795,Institutional deliveries - percentage of deliveries in a health facility,2006,97.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkmenistan,TM,TKM,795,Institutional deliveries - percentage of deliveries in a health facility,2016,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkmenistan,TM,TKM,795,Institutional deliveries - percentage of deliveries in a health facility,2019,100,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turks and Caicos Islands,TC,TCA,796,Institutional deliveries - percentage of deliveries in a health facility,2020,96.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tuvalu,TV,TUV,798,Institutional deliveries - percentage of deliveries in a health facility,2007,93,Total,Units,%,Reported,Free,End of fieldwork,Total
+Tuvalu,TV,TUV,798,Institutional deliveries - percentage of deliveries in a health facility,2020,98.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkey,TR,TUR,792,Institutional deliveries - percentage of deliveries in a health facility,2003,78.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkey,TR,TUR,792,Institutional deliveries - percentage of deliveries in a health facility,2008,89.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkey,TR,TUR,792,Institutional deliveries - percentage of deliveries in a health facility,2014,97.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Turkey,TR,TUR,792,Institutional deliveries - percentage of deliveries in a health facility,2018,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uganda,UG,UGA,800,Institutional deliveries - percentage of deliveries in a health facility,2001,36.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uganda,UG,UGA,800,Institutional deliveries - percentage of deliveries in a health facility,2006,41.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uganda,UG,UGA,800,Institutional deliveries - percentage of deliveries in a health facility,2011,57.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uganda,UG,UGA,800,Institutional deliveries - percentage of deliveries in a health facility,2016,73.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ukraine,UA,UKR,804,Institutional deliveries - percentage of deliveries in a health facility,2005,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ukraine,UA,UKR,804,Institutional deliveries - percentage of deliveries in a health facility,2007,99,Total,Units,%,Reported,Free,End of fieldwork,Total
+Ukraine,UA,UKR,804,Institutional deliveries - percentage of deliveries in a health facility,2012,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+United Arab Emirates,AE,ARE,784,Institutional deliveries - percentage of deliveries in a health facility,2009,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+United Arab Emirates,AE,ARE,784,Institutional deliveries - percentage of deliveries in a health facility,2011,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Institutional deliveries - percentage of deliveries in a health facility,2005,47.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Institutional deliveries - percentage of deliveries in a health facility,2010,50.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Tanzania, United Republic of",TZ,TZA,834,Institutional deliveries - percentage of deliveries in a health facility,2016,62.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uruguay,UY,URY,858,Institutional deliveries - percentage of deliveries in a health facility,2013,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Institutional deliveries - percentage of deliveries in a health facility,2006,97.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Institutional deliveries - percentage of deliveries in a health facility,2010,99.2,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Institutional deliveries - percentage of deliveries in a health facility,2011,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Institutional deliveries - percentage of deliveries in a health facility,2012,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Institutional deliveries - percentage of deliveries in a health facility,2013,99.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Institutional deliveries - percentage of deliveries in a health facility,2014,99.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Institutional deliveries - percentage of deliveries in a health facility,2015,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Institutional deliveries - percentage of deliveries in a health facility,2016,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Institutional deliveries - percentage of deliveries in a health facility,2017,99.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Uzbekistan,UZ,UZB,860,Institutional deliveries - percentage of deliveries in a health facility,2018,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vanuatu,VU,VUT,548,Institutional deliveries - percentage of deliveries in a health facility,2007,79.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vanuatu,VU,VUT,548,Institutional deliveries - percentage of deliveries in a health facility,2013,88.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2002,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Venezuela,VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2002,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2003,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Venezuela,VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2003,99.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2004,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Venezuela,VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2004,99.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2005,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Venezuela,VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2005,99.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2012,94.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Venezuela,VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2012,94.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2013,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Venezuela,VE,VEN,862,Institutional deliveries - percentage of deliveries in a health facility,2013,98.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Viet Nam,VN,VNM,704,Institutional deliveries - percentage of deliveries in a health facility,2002,78.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vietnam,VN,VNM,704,Institutional deliveries - percentage of deliveries in a health facility,2002,78.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Viet Nam,VN,VNM,704,Institutional deliveries - percentage of deliveries in a health facility,2006,63.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vietnam,VN,VNM,704,Institutional deliveries - percentage of deliveries in a health facility,2006,63.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Viet Nam,VN,VNM,704,Institutional deliveries - percentage of deliveries in a health facility,2011,92.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vietnam,VN,VNM,704,Institutional deliveries - percentage of deliveries in a health facility,2011,92.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Viet Nam,VN,VNM,704,Institutional deliveries - percentage of deliveries in a health facility,2014,93.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vietnam,VN,VNM,704,Institutional deliveries - percentage of deliveries in a health facility,2014,93.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Viet Nam,VN,VNM,704,Institutional deliveries - percentage of deliveries in a health facility,2021,96.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Vietnam,VN,VNM,704,Institutional deliveries - percentage of deliveries in a health facility,2021,96.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Yemen,YE,YEM,887,Institutional deliveries - percentage of deliveries in a health facility,2003,19.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Yemen,YE,YEM,887,Institutional deliveries - percentage of deliveries in a health facility,2006,23.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Yemen,YE,YEM,887,Institutional deliveries - percentage of deliveries in a health facility,2013,29.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,Institutional deliveries - percentage of deliveries in a health facility,2001,32.3,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,Institutional deliveries - percentage of deliveries in a health facility,2002,43.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,Institutional deliveries - percentage of deliveries in a health facility,2003,39,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,Institutional deliveries - percentage of deliveries in a health facility,2006,43,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,Institutional deliveries - percentage of deliveries in a health facility,2007,47.7,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,Institutional deliveries - percentage of deliveries in a health facility,2008,45,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,Institutional deliveries - percentage of deliveries in a health facility,2014,67.4,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zambia,ZM,ZMB,894,Institutional deliveries - percentage of deliveries in a health facility,2019,83.8,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Institutional deliveries - percentage of deliveries in a health facility,2006,67.9,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Institutional deliveries - percentage of deliveries in a health facility,2009,58.5,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Institutional deliveries - percentage of deliveries in a health facility,2011,65.1,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Institutional deliveries - percentage of deliveries in a health facility,2014,79.6,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Institutional deliveries - percentage of deliveries in a health facility,2015,77,Total,Units,%,Reported,Free,End of fieldwork,Total
+Zimbabwe,ZW,ZWE,716,Institutional deliveries - percentage of deliveries in a health facility,2019,85.5,Total,Units,%,Reported,Free,End of fieldwork,Total
