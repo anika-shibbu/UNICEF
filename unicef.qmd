@@ -1,0 +1,119 @@
+---
+title: "Unicef Story Telling"
+format: html
+editor: visual
+---
+
+# Story
+
+## **Introduction** 
+
+In a time known for being globally connected, knowing and solving worldwide problems is very important. We use information from UNICEF to look at the way communities everywhere are not the same in lots of different ways. We aim to make people know about these problems but also to show them that it’s possible to do something and things can get better. Come with us as we explore numbers and other information. Together, we can figure out how to help every child have the same opportunities in life.
+
+## Overview
+
+In this report, we explore the information given by UNICEF to give more information on different worldwide problems. By studying the data closely and making charts and graphs, we hope that more people will know about these problems and want to talk about them.
+
+## **Exploring Education**
+
+### ***Literacy Rates Among Lower Secondary Students***
+
+Our investigation starts with an analysis of how well students in the second stage of their basic education can read. We will do this by seeing how many pass a certain minimum reading standard. To see the main pattern and also any unusual things that happen, we will plot these numbers on a graph where the dots are not joined but show a line across them.
+
+```{r}
+library(dplyr)
+library(magrittr)
+library(ggplot2)
+library(maps)
+indicator_1 <- read.csv("D:/unicef_indicator_1.csv")
+indicator_2 <- read.csv("D:/unicef_indicator_2.csv")
+metadata <- read.csv("D:/unicef_metadata.csv")
+## Scatter Plot visualising Literacy Rates Among Lower Secondary Students
+# Merge the datasets based on common columns
+merged_data <- merge(indicator_1, metadata, by = c("country", "alpha_2_code", "alpha_3_code", "numeric_code"))
+# Filtering the data for the specific indicator and relevant columns
+scatterplot_data <- merged_data %>%
+  filter(indicator == "Proportion of students at the end of lower secondary achieving at least a minimum proficiency level in reading") %>%
+  select(country, obs_value)
+# Creating the scatterplot with linear regression line
+scatterplot <- ggplot(scatterplot_data, aes(x = country, y = obs_value)) +
+  geom_point() +      # Add points for each country
+  geom_smooth(method = "lm", se = FALSE) +  # Add linear regression line
+  theme_minimal() +   # Apply a minimal theme
+  labs(
+    title = "Literacy Rates Among Lower Secondary Students",
+    x = "country",
+    y = "Proportion of Students (%)"
+  ) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))  
+# Display the scatterplot
+print(scatterplot)
+```
+
+### ***Proportion of Students Achieving Minimum Proficiency in Reading by Country***
+
+We can examine how many students in different countries have reached the lowest level of reading skills by utilizing bar charts. This way of representing information will help us see where there are differences that are unfair, as well as understand whether efforts to teach people how to read are working better in some places than others.
+
+```{r}
+# Visualization 2: Bar Chart
+# Visualizing proportion of students achieving minimum proficiency in reading by country
+bar_chart <- ggplot(data = indicator_1, aes(x = reorder(country, obs_value), y = obs_value, fill = sex)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Proportion of Students Achieving Minimum Proficiency in Reading",
+       x = "country",
+       y = "obs_value",
+       fill = "Sex") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))  # Rotate x-axis labels
+print(bar_chart)
+```
+
+### ***Trends Over Time***
+
+Furthermore, we will examine chronological information to perceive patterns in academic results. By monitoring modifications over a span of time, we can point out advances and aspects that need action to guarantee fair distribution of good learning conditions. To demonstrate how these activities are spread out over the years, we will include a time-series graph.
+
+## **Maternal and Child Health**
+
+### ***Institutional Deliveries Percentage Over Time***
+
+As we turn our attention to the health of mothers and children, we will analyze how often deliveries happen in medical facilities throughout the years. This number shows if people can easily get good care when they need it most — while having a baby. It also affects how many mothers and babies die each year. Our line graph will make it easy to see changes over time.
+
+```{r}
+# Visualization 4: Time-Series Chart
+# Example: Institutional deliveries percentage over time
+time_series <- ggplot(data = indicator_2, aes(x = time_period, y = obs_value, color = sex)) +
+  geom_line() +
+  labs(title = "Institutional Deliveries Percentage Over Time",
+       x = "Time Period",
+       y = "Observed Value",
+       color = "sex") +
+  theme_minimal()
+print(time_series)
+```
+
+## **Geographical Insights**
+
+### ***Average Observed Value by Country***
+
+```{r}
+## World Map
+merged_data <- merge(indicator_1, metadata, by = c("country", "alpha_2_code", "alpha_3_code", "numeric_code"))
+country_data <- merged_data %>%
+  group_by(country) %>%
+  summarize(Average_obs_Value = mean(obs_value, na.rm = TRUE))
+world_map <- map_data("world")
+map_data <- merge(world_map, country_data, by.x = "region", by.y = "country", all.x = TRUE)
+world_map_chart <- ggplot(map_data, aes(x = long, y = lat, group = group, fill = Average_obs_Value)) +
+  geom_polygon(color = "white") +
+  scale_fill_gradient(low = "lightblue", high = "darkblue", na.value = "grey") +
+  labs(title = "Average Observed Value by Country",
+       fill = "Average Observed Value") +
+  theme_void()
+print(world_map_chart)
+```
+
+In this narrative, we have discussed how to compute descriptive statistics and create visual representations for UNICEF data. We also mentioned what each diagram is best used for. Our choice of which graph or chart to use will depend on the kind of information we have and the end goal of our analysis is to give an accurate summary with clear points.
+
+## **Conclusion**
+
+In summary, our examination of data from UNICEF uncovers significant differences in education around the world, the health of mothers and children, and how areas of land are developed. Some places do very well at teaching people to read and write and making sure sick individuals receive proper medical treatment than before while others do not have as much success in those areas. We have figured out which specific parts of the world need to concentrate on which problems by looking at data shown in the bar graphs, charts that show how numbers have gone up or down over time as well as illustrations that use dots to represent bits of information such as amounts or kinds things sold (scatter plots) or how countries compare with each other on different issues (world map charts). mitigating these challenges requires cumulative efforts to promote equal access to education and healthcare, prioritize maternal and child well-being and minimize the geographical inequalities. However, we can start working towards making things fairer by chances everybody has the same chance to learn to get better healthcare taking steps to improve situations.
